@@ -1,0 +1,35 @@
+E:\java,code\shoppingManagement\shoppingManagement\bin\Debug\shoppingManagement.exe.config
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.csprojResolveAssemblyReference.cache
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form1.resources
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form2.resources
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Properties.Resources.resources
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.csproj.GenerateResource.Cache
+E:\java,code\shoppingManagement\shoppingManagement\bin\Debug\shoppingManagement.exe
+E:\java,code\shoppingManagement\shoppingManagement\bin\Debug\shoppingManagement.pdb
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.exe
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.pdb
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form3.resources
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form4.resources
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form5.resources
+E:\java,code\shoppingManagement\shoppingManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form6.resources
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form7.resources
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form8.resources
+E:\java,code\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form9.resources
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\bin\Debug\shoppingManagement.exe.config
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.exe
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.pdb
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\bin\Debug\shoppingManagement.exe
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\bin\Debug\shoppingManagement.pdb
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.csprojResolveAssemblyReference.cache
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form1.resources
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form2.resources
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form3.resources
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form4.resources
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form5.resources
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form6.resources
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form7.resources
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Form8.resources
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.Properties.Resources.resources
+C:\Users\abid_\Desktop\ADMS Final v3\shoppingManagement\shoppingManagement\shoppingManagement\obj\Debug\shoppingManagement.csproj.GenerateResource.Cache
